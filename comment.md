@@ -18,7 +18,7 @@ http://localhost:3000/
 
 ## Socket.IO基本ライブラリー図
 
-![socket.IO基本ライブラリー図](./socket.IO基本ライブラリー図.png)
+![socket.IO基本ライブラリー図](https://github.com/tatsu57/websocket_node/blob/master/socket.IO%E5%9F%BA%E6%9C%AC%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%83%BC%E5%9B%B3.png)
 
 ## socket.ioの読み込みについて
 
