@@ -70,4 +70,4 @@ githubをclone
 
 準備完了
 
-socket.ioの解説に進む
+[socket.ioの解説に進む](./comment.md)
